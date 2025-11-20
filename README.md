@@ -37,11 +37,11 @@ I am a student at Holy Trinity, learning in the course: ICD2O.
 
 3. ❎ Minesweeper Validator
 
-   A simple minesweeper board validator
+  A simple minesweeper board validator
 
-   Skills used: Grid, loops, basic functions
+  Skills used: Grid, loops, basic functions
    
-   [Minesweeper Validator](https://colab.research.google.com/drive/19NZKxcGZZ9o4SVmqYPMi1Sg2-arscPkk?usp=sharing)
+  [Minesweeper Validator](https://colab.research.google.com/drive/19NZKxcGZZ9o4SVmqYPMi1Sg2-arscPkk?usp=sharing)
    
 5. ✈️ Greece Travel Guide
 
