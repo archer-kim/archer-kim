@@ -43,7 +43,7 @@ Skills used: Grid, loops, basic functions
    
 [Minesweeper Validator](https://colab.research.google.com/drive/19NZKxcGZZ9o4SVmqYPMi1Sg2-arscPkk?usp=sharing)
    
-  5. ✈️ Greece Travel Guide
+  4. ✈️ Greece Travel Guide
 
 Travel guide to greece with top destinations, search functions, and facts 
 
@@ -51,7 +51,7 @@ Skills used: Simple HTML, favicons, javascript, MDL.
    
 [Greece Travel Guide](https://archer-kim.github.io/ICD2O)
    
-  7. 🔐Password Checker
+  5. 🔐Password Checker
 
 Super simplistic password checker to require certain prerequisites
 
@@ -59,7 +59,7 @@ Skills used: If statements, basic python modules.
    
 [Password Checker](https://colab.research.google.com/drive/149Vs_B-1wyElAs39iI3dTjFyiayEF_DA?usp=sharing)
    
-  9. 10/10 on Legal and Ethical Issues in Technology
+  6. 10/10 on Legal and Ethical Issues in Technology
 
 10 Question quiz
 
@@ -67,3 +67,8 @@ Skills used: Brain power!
    
 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdfY1vi7K3fFqlCU47xRO386HU98jGHsqKw69WG7TBoTCMyQA/viewform)
    
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
