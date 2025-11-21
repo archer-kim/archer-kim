@@ -1,4 +1,4 @@
-## **Hello, World! This is my profile! 😁
+## Hello, World! This is my profile! 😁
 
 I am a student at Holy Trinity, learning in the course: ICD2O.
 
